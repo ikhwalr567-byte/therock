@@ -1,0 +1,6 @@
+{
+  "name": "Absensi & Gaji Tukang",
+  "description": "Aplikasi pencatatan absensi dan perhitungan penggajian tukang proyek bangunan untuk mandor / pemborong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
